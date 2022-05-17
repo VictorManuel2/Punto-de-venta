@@ -55,10 +55,7 @@
                     break;
                 case 'add_supplier':
                     require_once "add_supplier.php";
-                    break;
-                case 'registro':
-                    require_once "registration.php";
-                    break;                
+                    break;               
                 case 'ver-compras':
                     require_once "verCompras.php";
                     break;
